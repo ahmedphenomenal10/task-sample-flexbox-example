@@ -1,0 +1,22 @@
+h1{
+    background-color: purple;
+    color: whitesmoke;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.first{
+    color: black;
+    background-color: aqua;
+}
+.second{
+    color: black;
+    background-color: aqua;
+}
+.third{
+    color: black;
+    background-color: aqua;
+}
